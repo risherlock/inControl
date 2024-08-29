@@ -4,7 +4,7 @@ Annotated transcripts from the episodes of *inControl podcast* hosted by Alberto
 
 ## Episodes
 
-1. A brief prehistory of control theory
+1. [A brief prehistory of control theory](episodes/episode_001.md)
 2. Florian Dörfler: Power is nothing without control
 3. Ben Recht: A tour of optimization, machine learning, and control
 4. Alessandro Chiuso: From system identification to computer vision and back
